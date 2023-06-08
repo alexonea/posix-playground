@@ -1,0 +1,5 @@
+= Sandbox for understanding the POSIX job control mechanism
+
+This repository is a playground for exploring POSIX job control mechanisms inside a very limited initial ramdisk environment.
+It hosts primarily a `Makefile` and an `src/init.sh` script.
+The `Makefile` will build an entire Linux system consisting of a kernel and an initial ramdisk based on `busybox`.

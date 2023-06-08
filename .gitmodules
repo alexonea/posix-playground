@@ -1,0 +1,7 @@
+[submodule "busybox"]
+	path = src/busybox
+	url = https://github.com/mirror/busybox.git
+	branch = 1_35_stable
+[submodule "linux"]
+	path = src/linux
+	url = https://github.com/torvalds/linux.git
